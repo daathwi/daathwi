@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Daathwi Naagh
+# 👋 Hey, I’m Daathwi
 
 I’m a **Backend & Data Engineer** focused on building efficient, scalable systems powered by automation, AI, and clean design.
 
