@@ -18,4 +18,4 @@ Currently, I work at **Mako IT Lab**, where I develop backend systems using **Fa
 If you're into building smart systems with clean engineering — let’s connect!
 
 <!-- Replace with your actual links -->
-[LinkedIn](https://www.linkedin.com/in/daathwi/) • [Portfolio](https://daathwi.netlify.com) • [Email](mailto:daathwi.031@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/daathwi/) • [Portfolio](https://daathwi.netlify.app) • [Email](mailto:daathwi.031@gmail.com)
