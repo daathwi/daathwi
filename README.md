@@ -1,7 +1,7 @@
 # Hi there, I'm Daathwi Naagh 👋 
 ### Senior AI Engineer | Backend Specialist | Production-First Architect
 
-I build scalable AI systems that bridge the gap between experimental research and production-grade reliability. Currently leading AI initiatives at **Shark AI Solutions**.
+I bridge the gap between AI experimentation and production engineering. Currently architecting agentic workflows and high-performance backends at **Shark AI Solutions**.
 
 ---
 
@@ -16,23 +16,39 @@ I build scalable AI systems that bridge the gap between experimental research an
 
 ---
 
+### 💼 Professional Experience
+
+<details>
+<summary><b>Senior AI Engineer @ Shark AI Solutions</b> (2025 - Present)</summary>
+<br>
+- Architecting production-grade AI agents and automation workflows.<br>
+- Deploying scalable LLM systems and multimodal AI solutions.
+</details>
+
+<details>
+<summary><b>Backend Engineer @ Mako IT Lab</b> (2024 - 2025)</summary>
+<br>
+- Engineered scalable REST APIs with AWS integration.<br>
+- Automated data pipelines and refactored legacy systems for 30% efficiency gains.
+</details>
+
+---
+
 ### 📈 Productivity & Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daathwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daathwi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daathwi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daathwi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=daathwi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 What I'm working on
-- 🤖 Developing production-grade AI agents and automation workflows.
-- 🏗 Architecting high-performance APIs and AWS infrastructure.
-- 🧠 Exploring the intersection of Knowledge Graphs and LLMs.
+### 🚀 Activity Graph
+![Snake Animation](https://github-white-snake.vercel.app/api/snake?github_user=daathwi&color_dot=%23161b22&color_snake=%23D4AF37)
 
 ---
 
