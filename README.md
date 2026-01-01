@@ -5,7 +5,7 @@ I bridge the gap between AI experimentation and production engineering. Currentl
 
 ---
 
-### 🛠 Technical Ecosystem
+## 🛠 Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -16,43 +16,48 @@ I bridge the gap between AI experimentation and production engineering. Currentl
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
 <details>
 <summary><b>Senior AI Engineer @ Shark AI Solutions</b> (2025 - Present)</summary>
 <br>
-- Architecting production-grade AI agents and automation workflows.<br>
-- Deploying scalable LLM systems and multimodal AI solutions.
+
+- Architecting production-grade AI agents and automation workflows
+- Deploying scalable LLM systems and multimodal AI solutions
+- Building robust MCP (Model Context Protocol) integrations
 </details>
 
 <details>
 <summary><b>Backend Engineer @ Mako IT Lab</b> (2024 - 2025)</summary>
 <br>
-- Engineered scalable REST APIs with AWS integration.<br>
-- Automated data pipelines and refactored legacy systems for 30% efficiency gains.
+
+- Engineered scalable REST APIs with AWS integration
+- Automated data pipelines and refactored legacy systems for 30% efficiency gains
+- Implemented ETL workflows for high-volume data processing
 </details>
 
 ---
 
-### 📈 Productivity & Performance
+## 📫 Let's Connect
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daathwi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daathwi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=daathwi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/daathwi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://daathwi.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:daathwi.031@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Activity Graph
-![Snake Animation](https://github-white-snake.vercel.app/api/snake?github_user=daathwi&color_dot=%23161b22&color_snake=%23D4AF37)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daathwi&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
+</p>
 
----
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daathwi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=netlify&logoColor=white)](https://daathwi.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daathwi.031@gmail.com)
+<p align="center">
+  <i>💡 "Building production systems that matter, one commit at a time."</i>
+</p>
