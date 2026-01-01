@@ -54,10 +54,6 @@ I bridge the gap between AI experimentation and production engineering. Currentl
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=daathwi&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>💡 "Building production systems that matter, one commit at a time."</i>
 </p>
