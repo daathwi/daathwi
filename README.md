@@ -36,14 +36,17 @@ I bridge the gap between AI experimentation and production engineering. Currentl
 - Implemented ETL workflows for high-volume data processing
 </details>
 
-![](./profile-summary-card-output/default/2-most-commit-language.svg)
-![](./profile-summary-card-output/default/3-stats.svg)
-![](./profile-summary-card-output/default/1-productivity.svg)
+
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
+![](./profile-summary-card-output/github_dark/3-stats.svg)
+![](./profile-summary-card-output/github_dark/4-productive-time.svg)
+
+
+<p align="left">
   <a href="https://www.linkedin.com/in/daathwi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
