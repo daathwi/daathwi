@@ -36,6 +36,9 @@ I bridge the gap between AI experimentation and production engineering. Currentl
 - Implemented ETL workflows for high-volume data processing
 </details>
 
+![](./profile-summary-card-output/default/2-most-commit-language.svg)
+![](./profile-summary-card-output/default/3-stats.svg)
+![](./profile-summary-card-output/default/1-productivity.svg)
 ---
 
 ## 📫 Let's Connect
