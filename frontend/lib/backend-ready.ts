@@ -1,9 +1,11 @@
 /** Wait out Render-style free-tier cold starts before hitting the API. */
 
 const HEALTH_PATH = "/health";
-const MAX_WAIT_MS = 90_000;
-const POLL_MS = 3_000;
-const REQUEST_TIMEOUT_MS = 15_000;
+const MAX_WAIT_MS = 120_000;
+/** Don’t poll too aggressively — overlapping short requests abort Render’s cold start. */
+const POLL_MS = 2_000;
+/** Free-tier wake can take 30–60s on one connection; aborting early keeps /health failing forever. */
+const REQUEST_TIMEOUT_MS = 60_000;
 
 function apiBase() {
   return (
